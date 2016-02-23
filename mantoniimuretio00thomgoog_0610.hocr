@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mantoniimuretio00thomgoog_0610.png"; bbox 0 0 3475 5550; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 346 1554 1475 2002">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 346 1554 1475 2002">
+     <span class='ocr_line' id='line_1_1' title="bbox 388 1554 1321 1719; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 388 1554 1321 1719; x_wconf 83' lang='lat' dir='ltr'>ARISTOTELIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 346 1879 1475 2002; baseline 0.006 -17"><span class='ocrx_word' id='word_1_2' title='bbox 346 1883 355 1903; x_wconf 77' lang='grc'>’</span> <span class='ocrx_word' id='word_1_3' title='bbox 448 1880 1263 2002; x_wconf 70' lang='lat' dir='ltr'>RHEToRmoRUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 1472 1879 1475 1886; x_wconf 80' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 553 2247 1157 2352">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 553 2247 1157 2352">
+     <span class='ocr_line' id='line_1_3' title="bbox 553 2247 1157 2352; baseline -0.003 -17"><span class='ocrx_word' id='word_1_5' title='bbox 553 2247 868 2346; x_wconf 79' lang='lat' dir='ltr'><em>LIBRI</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 938 2247 1157 2352; x_wconf 66' lang='lat' dir='ltr'>DUQ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 346 2583 1362 2715">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 346 2583 1362 2715">
+     <span class='ocr_line' id='line_1_4' title="bbox 346 2583 1362 2715; baseline -0.01 -2"><span class='ocrx_word' id='word_1_7' title='bbox 346 2586 429 2715; x_wconf 89' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_8' title='bbox 539 2587 615 2711; x_wconf 84' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_9' title='bbox 723 2583 1362 2712; x_wconf 86' lang='lat' dir='ltr'><strong>MURETO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 502 2922 1204 3022">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 502 2922 1204 3022">
+     <span class='ocr_line' id='line_1_5' title="bbox 502 2922 1204 3022; baseline -0.001 -7"><span class='ocrx_word' id='word_1_10' title='bbox 502 2922 1204 3022; x_wconf 67' lang='lat' dir='ltr'><strong>INTERPRETL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1742 5550">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1742 5550">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1742 5550; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1742 5550; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

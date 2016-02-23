@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mantoniimuretio00thomgoog_0141.png"; bbox 0 0 3475 5550; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 391 1611 1471 1789">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 391 1611 1471 1789">
+     <span class='ocr_line' id='line_1_1' title="bbox 391 1611 1471 1789; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 391 1631 480 1784; x_wconf 71' lang='lat' dir='ltr'>M·</span> <span class='ocrx_word' id='word_1_2' title='bbox 549 1611 895 1786; x_wconf 70' lang='grc' dir='ltr'>ΑΝΤΟΝΗ</span> <span class='ocrx_word' id='word_1_3' title='bbox 966 1664 1299 1789; x_wconf 76' lang='lat' dir='ltr'>MURETI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1469 1645 1471 1654; x_wconf 78' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 802 2034 900 2135">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 802 2034 900 2135">
+     <span class='ocr_line' id='line_1_2' title="bbox 802 2034 900 2135; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 802 2034 900 2135; x_wconf 75' lang='lat' dir='ltr'>IN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 330 2378 1361 2502">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 330 2378 1361 2502">
+     <span class='ocr_line' id='line_1_3' title="bbox 330 2378 1361 2502; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 330 2378 957 2501; x_wconf 81' lang='lat' dir='ltr'>ARISTOTELIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1010 2381 1361 2502; x_wconf 82' lang='lat' dir='ltr'>ETHICA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 428 2734 1492 3059">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 428 2734 1492 3059">
+     <span class='ocr_line' id='line_1_4' title="bbox 428 2734 1492 2829; baseline 0.002 -9"><span class='ocrx_word' id='word_1_8' title='bbox 428 2760 518 2821; x_wconf 70' lang='lat' dir='ltr'>An</span> <span class='ocrx_word' id='word_1_9' title='bbox 610 2734 1264 2829; x_wconf 84' lang='lat' dir='ltr'>NICOMACHUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 1488 2784 1492 2791; x_wconf 91' lang='lat'><em>·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 478 2963 1439 3059; baseline 0.003 -24"><span class='ocrx_word' id='word_1_11' title='bbox 478 2963 1198 3041; x_wconf 57' lang='lat' dir='ltr'>-coMMENTAR1us</span> <span class='ocrx_word' id='word_1_12' title='bbox 1437 3057 1439 3059; x_wconf 11' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1742 5550">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1742 5550">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1742 5550; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1742 5550; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
